@@ -1,0 +1,1 @@
+first = input("give first name: "); second = input("give second name: "); age = input("give age: "); print(f"{age} {second} {first}")

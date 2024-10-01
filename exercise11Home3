@@ -1,0 +1,27 @@
+import calendar
+
+totalmonths = ("january","february","march","april","may","june","july","august","september","october","november","december")
+
+
+while True:
+    year = input("give year: ")
+    try:
+        intyear = int(year)
+        print("thanks!")
+        break
+    except ValueError:
+        print("not a year, try again: ")
+
+
+
+while True:
+    month = input("give month: ").lower()
+    if month in totalmonths:
+        monthy = totalmonths.index(month) + 1
+        print("thanks!")
+        break
+    else:
+        print("try again, not correct spelling: ")
+
+
+print(calendar.month(intyear, monthy))
