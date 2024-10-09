@@ -1,3 +1,8 @@
+def checkout()
+
+
+
+
 trousers = int(input("how many trousers have been bought? "))
 tshirts = int(input("how many t-shirts have been bought? "))
 vests = int(input("how many vests have been bought? "))
