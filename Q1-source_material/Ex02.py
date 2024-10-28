@@ -1,4 +1,4 @@
-# Ex02
+# Ex02  *ssb
 # Huyghe Yasser MCTE MTS1
 
 import random

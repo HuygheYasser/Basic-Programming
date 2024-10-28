@@ -22,7 +22,6 @@ print(calculate_love_score(first_name,second_name))
 
 
 
-
 # test your function 
 first_name = input("Enter a first name:> ")
 second_name = input("Enter a second name:> ")
