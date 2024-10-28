@@ -1,4 +1,4 @@
-# Ex02  *ssb   wawaawa
+# Ex02  *ssb   wawaawa weeeweewee
 # Huyghe Yasser MCTE MTS1
 
 import random
